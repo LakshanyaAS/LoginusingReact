@@ -25,5 +25,5 @@ MongoDB / Mongoose
 
 Database
 
-MongoDB Atlas or Local MongoDB
+MongoDB Atlas 
 
